@@ -1,6 +1,6 @@
 {
   "$schema": "https://schemas.liberu.dev/module/v1.json",
-  "name": "billing-pricing",
+  "name": "module-billing-pricing",
   "display_name": "Billing Pricing",
   "description": "Recurring, one-time, usage, tiered pricing, contracts, discounts, proration, and snapshots.",
   "version": "0.1.2",
